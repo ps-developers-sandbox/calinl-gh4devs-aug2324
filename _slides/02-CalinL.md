@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hello world from GitHub class!!
+Any news!
 
 Hello World from the Github class - this change is made by Adarsha
 
